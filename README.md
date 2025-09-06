@@ -13,3 +13,14 @@ StayEase is a full-stack web application inspired by Airbnb. The goal is to buil
 - **Frontend**: HTML, CSS, JavaScript (React)
 - **Version Control**: Git & GitHub
 - **Design Tools**: Figma for UI/UX mockups
+
+
+
+UI/UX Design Planning
+
+### Design Goals
+
+- Intuitive booking flow
+- Visual consistency
+- Fast loading times
+- Mobile-first responsiveness
