@@ -15,7 +15,6 @@ StayEase is a full-stack web application inspired by Airbnb. The goal is to buil
 - **Design Tools**: Figma for UI/UX mockups
 
 
-
 UI/UX Design Planning
 
 ### Design Goals
@@ -24,3 +23,21 @@ UI/UX Design Planning
 - Visual consistency
 - Fast loading times
 - Mobile-first responsiveness
+
+### Color Styles
+
+- **Primary:** `#FF5A5F`
+- **Secondary:** `#008489`
+- **Background:** `#FFFFFF`
+- **Text:** `#222222`
+- **Secondary Text:** `#717171`
+
+### Typography
+
+- **Primary Font:** Circular, Medium (500), 16px
+- **Headings:** Circular, Bold (700), 24px–32px
+- **Secondary Text:** Circular, Book (400), 14px
+
+### Why It Matters
+
+Identifying design properties from Figma ensures visual consistency and smooth collaboration between designers and developers.
