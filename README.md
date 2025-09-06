@@ -41,3 +41,16 @@ UI/UX Design Planning
 ### Why It Matters
 
 Identifying design properties from Figma ensures visual consistency and smooth collaboration between designers and developers.
+
+##  Project Roles and Responsibilities
+
+ Role                   Key Responsibilities 
+                                                     
+ Project Manager      Coordinates team, manages timeline and deliverables                       
+ Frontend Developer   Builds UI components, ensures responsive design                           
+ Backend Developer    Develops APIs, manages database, implements business logic                
+ Designer              Creates mockups, maintains design system, ensures UX quality              
+ QA/Testers           Writes test cases, performs testing, reports bugs                         
+ DevOps Engineer      Manages deployment, CI/CD pipeline, server infrastructure                 
+ Product Owner         Defines requirements, prioritizes features, represents stakeholders       
+ Scrum Master          Facilitates agile processes, removes blockers, organizes meetings         
